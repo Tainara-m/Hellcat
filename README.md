@@ -1,6 +1,6 @@
 # 🚗 Challenger Hellcat — Landing Page
 
-Este projeto é uma **landing page inspirada no Dodge Challenger Hellcat**, desenvolvida com foco em **prática de front-end**. O objetivo principal foi treinar habilidades de estruturação, estilização e organização visual utilizando HTML e CSS (e possivelmente JavaScript, se aplicável).
+Este projeto é uma **landing page inspirada no Dodge Challenger Hellcat**, desenvolvida com foco em **prática de front-end**. O objetivo principal foi treinar habilidades de estruturação, estilização e organização visual utilizando HTML e CSS (e JavaScript, no futuro).
 
 > ⚠️ Este projeto é apenas um exercício educacional, sem fins comerciais.
 
